@@ -88,3 +88,8 @@
 :?C*:+-\::±
 :?C*:---\::— ; must be placed above -- trigger so it takes precedence
 :?C*:--\::–
+:?C*:(c)\::©
+:?C*:``"l\::“ ; need to escape `
+:?C*:``"r\::” ; need to escape `
+:?C*:``'l\::‘ ; need to escape `
+:?C*:``'r\::’ ; need to escape `

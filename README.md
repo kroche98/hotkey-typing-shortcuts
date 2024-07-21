@@ -106,3 +106,8 @@ The following table lists the available shortcuts. Each sequence must be termina
 |±|+-|
 |—|---|
 |–|--|
+|©|(c)|
+|“|`"l|
+|”|`"r|
+|‘|`'l|
+|’|`'r|
